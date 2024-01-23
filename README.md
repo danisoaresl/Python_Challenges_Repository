@@ -1,2 +1,2 @@
 # exerc_funcoes_extras_python
-Exercícios Funções e extras de Python | Bootcamp Back-End Python e Django | WoMakersCode
+Exercícios Funções e Extras de Python | WoMakersCode | praticando python 
